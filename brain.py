@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-endpoint = ""
+endpoint = "<URL>"
 deployment_name = "gpt-4o-default"
 api_key = "<API_KEY>"
 
