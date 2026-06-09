@@ -1,8 +1,8 @@
 from openai import OpenAI
 
-endpoint = "https://pega-poc-gpt.openai.azure.com/openai/v1"
+endpoint = ""
 deployment_name = "gpt-4o-default"
-api_key = "25294bc4d4fd478783da301ec3caa149"
+api_key = "<API_KEY>"
 
 client = OpenAI(base_url=endpoint, api_key=api_key)
 
